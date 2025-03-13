@@ -9,7 +9,6 @@ HTML5 para a estrutura da página
 CSS3 para estilização e layout
 
 📌 Funcionalidades
-✅ Layout responsivo
 ✅ Seção sobre a cafeteria
 ✅ Cardápio fictício
 ✅ Avaliação dos clientes
