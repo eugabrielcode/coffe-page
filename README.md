@@ -12,6 +12,7 @@ CSS3 para estilização e layout
 ✅ Seção sobre a cafeteria
 ✅ Cardápio fictício
 ✅ Avaliação dos clientes
+✅ localização da sua cafeteria
 
 ![image](https://github.com/user-attachments/assets/eccbea3f-8b1b-4743-b448-ec2e69410d4c)
 
