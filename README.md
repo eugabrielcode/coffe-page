@@ -23,9 +23,9 @@ O objetivo é praticar a estruturação de páginas web e estilização, focando
 
 <h2>📦 Como Executar</h2>
 
-<p>Baixe ou clone este repositório:</p>
+<p>Baixe ou clone este repositório</p>
 
-<p>Abra o arquivo index.html no navegador.</p>
+<p>Abra o arquivo index.html no navegador</p>
 
 <h2>🎨 Foto Ilustrativa</h2>
 
